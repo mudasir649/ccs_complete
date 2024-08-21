@@ -1,0 +1,20 @@
+body{
+    font-size: 22px;
+}
+
+h1, h2{
+    color: blue;
+}
+
+.gray{
+    color: gray;
+}
+
+p{
+    color: purple;
+}
+
+.highlight{
+    text-transform: uppercase;
+    background-color: yellow;
+}
